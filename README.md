@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Omar Sayed, Welcome to my corner of the coding world!
+I'm Omar Madbouly, Welcome to my corner of the coding world!
 
 ## About Me
 
