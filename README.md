@@ -6,16 +6,12 @@ I'm Omar Sayed, Welcome to my corner of the coding world!
 
 - 🌐 I'm a passionate developer with a love for technology and problem-solving.
 - 🚀 Currently exploring new horizons in the world of full-stack development.
-- 🌱 Studying Computer Science in college.
+- 🌱 Computer Science Graduate.
 
 ## Interests
 
 - 💻 I'm particularly interested in full-stack development, diving into both front-end and back-end technologies.
 - 📚 Constantly expanding my knowledge in computer science and software development.
-
-## Learning
-
-- 📖 Currently enhancing my skills in full-stack development and Problem Solving Skills.
 - 🤝 Open to learning new things and collaborating on interesting projects.
 
 ## Collaboration
