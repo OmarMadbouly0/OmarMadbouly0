@@ -24,7 +24,7 @@ I'm Omar Madbouly, Welcome to my corner of the coding world!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-madbouly)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:omarsayed.cpp@gmail.com)](mailto:omarsayed.cpp@gmail.com)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OmarSayed_cs)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OmarMadbouly0)
 
 ## 💻 Tech Stack:
 
