@@ -1,22 +1,4 @@
-<img align="right" src="assets/profile/coder.svg" width="420" alt="Omar in a blue hoodie, typing at his computer — animated pixel artwork" />
-
-<p><samp>HELLO, WORLD. I'M</samp></p>
-
-<h1>Omar <a href="https://github.com/OmarMadbouly0">Madbouly.</a></h1>
-
-<h3><samp>FULL-STACK DEVELOPER</samp></h3>
-
-<p><em>Learning by building.</em></p>
-
-<p>
-  Currently building <a href="https://github.com/OmarMadbouly0/greenz"><strong>GreenZ</strong></a> 🌱<br>
-  <samp>Next.js · TypeScript · PostgreSQL</samp>
-</p>
-
-<p><code>❯ Always learning. Always building.</code></p>
-
-<br clear="both" />
-
+<img src="assets/profile/header.svg" width="100%" alt="Omar Madbouly — Full-stack developer. Learning by building. Currently building GreenZ with Next.js, TypeScript, and PostgreSQL." />
 
 ### 01 / ABOUT
 
