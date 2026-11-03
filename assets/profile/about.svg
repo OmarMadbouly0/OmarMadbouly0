@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="252" viewBox="0 0 960 252" role="img" aria-labelledby="title desc">
+<title id="title">Curious mind. Connected systems.</title>
+<desc id="desc">Computer Science graduate focused on full-stack development. I learn best by building projects, solving problems, and figuring out how things work.</desc>
+<rect x="1" y="1" width="958" height="250" rx="16" fill="#0d1522" stroke="#23354d"/>
+<g font-family="'Segoe UI', Arial, sans-serif">
+<text x="30" y="52" font-size="30" font-weight="600" fill="#e6edf3">Curious mind. <tspan fill="#79c0ff">Connected systems.</tspan></text>
+<g fill="none" stroke="#79c0ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(30 84)"><path d="m0 8 12-6 12 6-12 6Zm5 3v8q7 5 14 0v-8M24 8v12"/></g>
+<g transform="translate(30 136)"><path d="m7 3-7 9 7 9m10-18 7 9-7 9M14 0l-4 24"/></g>
+<g transform="translate(30 188)"><path d="M8 18h8m-8 4h8M8 15C-1 6 5 0 12 0s13 6 4 15Z"/></g>
+</g>
+<text x="76" y="103" font-size="21" fill="#b6c7dc">Computer Science graduate &#183; <tspan fill="#e6edf3" font-weight="600">Full-stack developer</tspan></text>
+<text x="76" y="155" font-size="21" fill="#b6c7dc">Learning through projects. Growing through problem-solving.</text>
+<text x="76" y="207" font-size="21" fill="#b6c7dc">Always curious about how things work &#8212; and how to build them.</text>
+</g></svg>
