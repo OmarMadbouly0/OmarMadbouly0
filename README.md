@@ -1,6 +1,18 @@
-<p align="center">
-  <img src="assets/profile/header.svg" width="100%" alt="Omar Madbouly — Full-stack developer. Learning by building. A blue pixel-art hoodie coder at his computer." />
-</p>
+<table width="100%">
+  <tr>
+    <td width="60%" valign="middle">
+      <p><samp>omar.dev / ~/workspace/profile</samp></p>
+      <p><sub>HELLO, WORLD. I'M</sub></p>
+      <h1>OMAR<br><a href="https://github.com/OmarMadbouly0">MADBOULY.</a></h1>
+      <p><strong>Full-stack developer</strong><br>Learning by building</p>
+      <p><code>❯ Building full-stack applications</code></p>
+      <p><sub>🔵 ALWAYS LEARNING. ALWAYS BUILDING.</sub></p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="assets/profile/coder.svg" width="360" alt="Animated pixel-art Omar in a blue hoodie, typing at his computer" />
+    </td>
+  </tr>
+</table>
 
 ### 01 / ABOUT
 
