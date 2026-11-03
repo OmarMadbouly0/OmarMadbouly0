@@ -1,18 +1,22 @@
-<table width="100%">
-  <tr>
-    <td width="60%" valign="middle">
-      <p><samp>omar.dev / ~/workspace/profile</samp></p>
-      <p><sub>HELLO, WORLD. I'M</sub></p>
-      <h1>OMAR<br><a href="https://github.com/OmarMadbouly0">MADBOULY.</a></h1>
-      <p><strong>Full-stack developer</strong><br>Learning by building</p>
-      <p><code>❯ Building full-stack applications</code></p>
-      <p><sub>🔵 ALWAYS LEARNING. ALWAYS BUILDING.</sub></p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="assets/profile/coder.svg" width="360" alt="Animated pixel-art Omar in a blue hoodie, typing at his computer" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="assets/profile/coder.svg" width="420" alt="Omar in a blue hoodie, typing at his computer — animated pixel artwork" />
+
+<p><samp>HELLO, WORLD. I'M</samp></p>
+
+<h1>Omar<br><a href="https://github.com/OmarMadbouly0">Madbouly.</a></h1>
+
+<h3><samp>FULL-STACK DEVELOPER</samp></h3>
+
+<p><em>Learning by building.</em></p>
+
+<p>
+  Currently building <a href="https://github.com/OmarMadbouly0/greenz"><strong>GreenZ</strong></a> 🌱<br>
+  <samp>Next.js · TypeScript · PostgreSQL</samp>
+</p>
+
+<p><code>❯ Always learning. Always building.</code></p>
+
+<br clear="both" />
+
 
 ### 01 / ABOUT
 
@@ -28,7 +32,7 @@ I learn best by building projects, solving problems, and figuring out how things
 
 ### 03 / BUILDING
 
-[![GreenZ — From recyclables to rewards. A recycling pickup platform connecting customers, collectors, and administrators.](assets/profile/greenz.svg)](https://github.com/OmarMadbouly0/greenz)
+[![GreenZ — From recyclables to rewards. A recycling pickup platform connecting customers, collectors, and administrators.](assets/profile/greenz-animated.svg)](https://github.com/OmarMadbouly0/greenz)
 
 ### 04 / GITHUB STATS
 
