@@ -2,7 +2,7 @@
 
 <p><samp>HELLO, WORLD. I'M</samp></p>
 
-<h1>Omar<br><a href="https://github.com/OmarMadbouly0">Madbouly.</a></h1>
+<h1>Omar <a href="https://github.com/OmarMadbouly0">Madbouly.</a></h1>
 
 <h3><samp>FULL-STACK DEVELOPER</samp></h3>
 
