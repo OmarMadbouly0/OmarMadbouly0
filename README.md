@@ -1,29 +1,35 @@
-# Hi there! 👋
+<p align="center">
+  <img src="assets/profile/header.svg" width="100%" alt="Omar Madbouly — Full-stack developer. Learning by building. A blue pixel-art hoodie coder at his computer." />
+</p>
 
-I'm Omar Madbouly, Welcome to my corner of the coding world!
+### 01 / ABOUT
 
-## About Me
+**Curious mind. Connected systems.**
 
-- 🌐 I'm a passionate developer with a love for technology and problem-solving.
-- 🚀 Currently exploring new horizons in the world of full-stack development.
-- 🌱 Computer Science Graduate.
+Computer Science graduate focused on **full-stack development**.
 
-## Interests
+I learn best by building projects, solving problems, and figuring out how things work.
 
-- 💻 I'm particularly interested in full-stack development, diving into both front-end and back-end technologies.
-- 📚 Constantly expanding my knowledge in computer science and software development.
-- 🤝 Open to learning new things and collaborating on interesting projects.
+### 02 / STACK
 
-## Collaboration
+<img src="assets/profile/stack.svg" width="100%" alt="TypeScript · React · Next.js · PostgreSQL · Prisma · Vitest" />
 
-- 💡 I'm open to collaborating on projects that involve full-stack development or any exciting ventures related to computer science.
-- 🤝 If you have an interesting project or idea, let's connect and make it happen!
+### 03 / BUILDING
 
+[![GreenZ — From recyclables to rewards. A recycling pickup platform connecting customers, collectors, and administrators.](assets/profile/greenz.svg)](https://github.com/OmarMadbouly0/greenz)
 
-## Let's Connect :
+### 04 / ACTIVITY
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-madbouly)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:omarsayed.cpp@gmail.com)](mailto:omarsayed.cpp@gmail.com)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OmarMadbouly0)
-  
-Feel free to explore my repositories and don't hesitate to reach out. Let's build something amazing together! 🚀
+<img src="assets/profile/activity.svg" width="100%" alt="Decorative blue contribution-style animation; not live GitHub activity." />
+
+### 05 / CONNECT
+
+**Good things start with a conversation.**
+
+<a href="https://linkedin.com/in/omar-madbouly"><img src="assets/profile/linkedin.svg" width="180" alt="LinkedIn" /></a>
+<a href="mailto:omarsayed.cpp@gmail.com"><img src="assets/profile/email.svg" width="180" alt="Email Omar" /></a>
+<a href="https://x.com/OmarMadbouly0"><img src="assets/profile/x.svg" width="180" alt="X" /></a>
+
+---
+
+<sub>Built with curiosity ✦ · [OmarMadbouly0](https://github.com/OmarMadbouly0)</sub>
