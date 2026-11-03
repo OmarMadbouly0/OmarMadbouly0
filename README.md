@@ -18,7 +18,14 @@ I learn best by building projects, solving problems, and figuring out how things
 
 [![GreenZ — From recyclables to rewards. A recycling pickup platform connecting customers, collectors, and administrators.](assets/profile/greenz.svg)](https://github.com/OmarMadbouly0/greenz)
 
-### 04 / CONNECT
+### 04 / GITHUB STATS
+
+<p align="center">
+  <a href="https://github.com/OmarMadbouly0?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarMadbouly0&amp;theme=github_dark" width="41%" alt="Omar's live GitHub stats: stars, commits, pull requests, issues, and contributions" /></a>
+  <a href="https://github.com/OmarMadbouly0?tab=overview"><img src="https://streak-stats.demolab.com/?user=OmarMadbouly0&amp;hide_border=true&amp;background=0C131E&amp;stroke=243142&amp;ring=65ACFF&amp;fire=65ACFF&amp;currStreakNum=ECF1FA&amp;sideNums=ECF1FA&amp;currStreakLabel=65ACFF&amp;sideLabels=8493A9&amp;dates=7186A0" width="57%" alt="Omar's total contributions, current streak, and longest contribution streak" /></a>
+</p>
+
+### 05 / CONNECT
 
 **Good things start with a conversation.**
 
