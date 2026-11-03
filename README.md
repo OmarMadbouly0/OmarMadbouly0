@@ -1,8 +1,15 @@
 <img src="assets/profile/header.svg" width="100%" alt="Omar Madbouly — Full-stack developer. Learning by building. Currently building GreenZ with Next.js, TypeScript, and PostgreSQL." />
 
-<h3><img src="assets/profile/title-about.svg" width="360" alt="01 / About me" /></h3>
+### 👨‍💻 About me
 
-<img src="assets/profile/about.svg" width="100%" alt="Curious mind. Connected systems. Computer Science graduate focused on full-stack development. Learning through projects and problem-solving, and always curious about how things work." />
+> **Curious mind. Connected systems.**<br>
+> *Learning by building, one project at a time.*
+
+🎓 &nbsp; Computer Science graduate focused on **full-stack development**.
+
+🛠️ &nbsp; I learn best by **building projects** and **solving problems**.
+
+💡 &nbsp; Always curious about **how things work** — and how to build them.
 
 <h3><img src="assets/profile/title-stack.svg" width="360" alt="02 / Tech stack" /></h3>
 
