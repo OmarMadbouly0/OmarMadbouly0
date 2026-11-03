@@ -18,11 +18,7 @@ I learn best by building projects, solving problems, and figuring out how things
 
 [![GreenZ — From recyclables to rewards. A recycling pickup platform connecting customers, collectors, and administrators.](assets/profile/greenz.svg)](https://github.com/OmarMadbouly0/greenz)
 
-### 04 / ACTIVITY
-
-<img src="assets/profile/activity.svg" width="100%" alt="Decorative blue contribution-style animation; not live GitHub activity." />
-
-### 05 / CONNECT
+### 04 / CONNECT
 
 **Good things start with a conversation.**
 
